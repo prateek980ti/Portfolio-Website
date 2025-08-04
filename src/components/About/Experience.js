@@ -13,8 +13,8 @@ function Experience() {
             </h5>
             <small className="text-muted">Jun 2025 – Present</small>
             <p className="mt-3">
-              Developing and maintaining websites from scratch using the MERN stack.  
-              Designing and integrating RESTful APIs for seamless front‑end and back‑end communication.  
+              Developing and maintaining websites from scratch using the MERN stack.
+              Designing and integrating RESTful APIs for seamless front‑end and back‑end communication.
               Optimizing database queries, handling deployments, and ensuring secure, scalable applications.
             </p>
           </Card.Body>
@@ -30,9 +30,7 @@ function Experience() {
             </h5>
             <small className="text-muted">Feb 2025 – May 2025</small>
             <p className="mt-3">
-              Built full‑stack applications with React.js, Node.js, Express.js, and MongoDB.  
-              Created and maintained RESTful APIs, reducing data latency by 30%.  
-              Implemented secure authentication with JWT and bcrypt while optimizing database performance.
+              Engineered full-stack applications using React.js, Node.js, Express.js, and MongoDB, improving overall performance and UI responsiveness. Designed and deployed a secure JWT and bcrypt-based authentication system handling 100+ user sessions, while developing and maintaining 10+ RESTful APIs to ensure seamless frontend-backend integration and faster data fetching. Additionally, optimized MongoDB schemas and queries, reducing data retrieval time and enhancing performance under high-load scenarios.
             </p>
           </Card.Body>
         </Card>
