@@ -741,3 +741,19 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+
+.experience-card {
+  background-color: transparent !important; /* removes white background */
+  color: white !important;
+  border: 1.7px solid rgba(200, 137, 230, 0.3) !important;
+  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+  transition: all 0.4s ease-in-out !important;
+  margin: 25px;
+}
+
+.experience-card:hover {
+  transform: scale(1.02) !important;
+  border: 2px solid rgba(200, 137, 230, 0.7) !important;
+  box-shadow: 0 4px 8px 5px rgba(155, 88, 173, 0.5) !important;
+}
